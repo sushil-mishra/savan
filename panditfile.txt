@@ -1,1 +1,5 @@
-hello pandit
+<<<<<<< HEAD
+hello pandit skm
+=======
+hi pandit
+>>>>>>> branch1
